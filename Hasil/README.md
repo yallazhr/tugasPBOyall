@@ -1,4 +1,6 @@
+"INI TUGAS SAYA COMITNYA PAKE LAPTOPNYA TRI PILARI UTAMA SULAN KARENA LAPTOP SAYA MATI TOTAL DARI RABU DAN SEKARANG LAPTOP SAYA MASIH DI TEMPAT SERVICE" 
 # 3D - Latihan/Eksplorasi Materi Array dan ArrayList (Sistem Manajemen Bank & ATM)
+
 
 Repositori ini berisi implementasi program Java berkonsep **Object-Oriented Programming (OOP)** untuk latihan pemodelan Sistem Perbankan dan ATM Sederhana mengelola hubungan/asosiasi antar objek menggunakan **Array** (sesuai materi slide *PBO 7: Array & ArrayList*).
 
@@ -39,6 +41,7 @@ Berikut adalah tampilan antarmuka interaktif saat program dijalankan di terminal
 ![Screenshot Eksekusi ATM](Hasil/Menu_Lihat.png)
 ![Screenshot Eksekusi ATM](Hasil/Menu_Tambah.png)
 ![Screenshot Eksekusi ATM](Hasil/Menu_Setor_Tarik.png)
+
 
 ---
 
